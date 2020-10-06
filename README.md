@@ -1,2 +1,2 @@
 # Fm-SocialProofSection
-First kata at Frontend Mento
+First kata at Frontend Mentor
